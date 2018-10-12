@@ -1,0 +1,14 @@
+{
+  "name": "757colorcoded/colorcoded-custom-functions",
+  "description": "A collection of customized functionality for the 757ColorCoded website",
+  "homepage": "https://github.com/757colorcoded/colorcoded-custom-functions",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Chazona Baum",
+      "email": "chazona@chazonabaum.com",
+      "homepage": "https://chazonabaum.com",
+      "role": "Developer"
+    }
+  ]
+}
